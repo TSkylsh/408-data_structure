@@ -11,6 +11,5 @@ int main() {
     show(head);
     head=reversal(head);
     show(head);
-    printf("Hello, World!\n");
     return 0;
 }

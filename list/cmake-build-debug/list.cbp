@@ -37,56 +37,7 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zego/408-data_structure/list/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="list">
-				<Option output="/Users/zego/408-data_structure/list/cmake-build-debug/list" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/zego/408-data_structure/list/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
-					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/zego/408-data_structure/list/cmake-build-debug/Makefile&quot;  VERBOSE=1 list"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zego/408-data_structure/list/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zego/408-data_structure/list/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zego/408-data_structure/list/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="list/fast">
-				<Option output="/Users/zego/408-data_structure/list/cmake-build-debug/list" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/zego/408-data_structure/list/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
-					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/zego/408-data_structure/list/cmake-build-debug/Makefile&quot;  VERBOSE=1 list/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zego/408-data_structure/list/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zego/408-data_structure/list/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zego/408-data_structure/list/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
 		</Build>
-		<Unit filename="/Users/zego/408-data_structure/list/ Doubly linked list.h">
-			<Option target="list"/>
-		</Unit>
-		<Unit filename="/Users/zego/408-data_structure/list/list.h">
-			<Option target="list"/>
-		</Unit>
-		<Unit filename="/Users/zego/408-data_structure/list/main.c">
-			<Option target="list"/>
-		</Unit>
 		<Unit filename="/Users/zego/408-data_structure/list/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

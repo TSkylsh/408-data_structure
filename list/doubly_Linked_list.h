@@ -6,3 +6,9 @@
 #define LIST_DOUBLYLINKEDLIST_H
 
 #endif //LIST_DOUBLYLINKEDLIST_H
+
+typedef struct DoubleLinked{
+    int data;
+    struct DoubleLinked *pre;
+    struct DoubleLinked *next;
+}DoubleLinked;
