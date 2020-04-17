@@ -78,6 +78,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/zego/408-data_structure/list/ Doubly linked list.h">
+			<Option target="list"/>
+		</Unit>
 		<Unit filename="/Users/zego/408-data_structure/list/list.h">
 			<Option target="list"/>
 		</Unit>

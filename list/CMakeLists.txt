@@ -3,4 +3,4 @@ project(list C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(list main.c list.h)
+add_executable(list main.c " Doubly linked list.h" " doublylinked_list.cpp" " DoublyLinkedList.h")
