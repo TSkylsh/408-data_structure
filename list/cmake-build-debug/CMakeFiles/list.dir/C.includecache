@@ -6,15 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/zego/408-data_structure/list/list.h
-stddef.h
--
-stdlib.h
--
-
 /Users/zego/408-data_structure/list/main.c
 stdio.h
 -
-list.h
-/Users/zego/408-data_structure/list/list.h
+stdlib.h
+-
 

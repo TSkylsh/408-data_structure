@@ -1,2 +1,3 @@
 /Users/zego/408-data_structure/list/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /Users/zego/408-data_structure/list/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zego/408-data_structure/list/cmake-build-debug/CMakeFiles/list.dir
